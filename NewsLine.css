@@ -1,0 +1,89 @@
+header {
+    display: flex;
+    padding: 0;
+    height: 50px;
+    background-color:#222222;
+    display: flex;
+}
+body {
+    background-color: #141414;
+    margin: 0;
+    padding: 0;
+}
+#vk-img-logo {
+    margin-top: 10px;
+    margin-left: 350px;
+}
+#vk-logo-name1 {
+    margin-left: 5px;
+    margin-top: 13px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #E1E3E6;
+}
+#img-lupa {
+    margin-left: 35px;
+    margin-top: 10px;
+}
+#poisk {
+    margin-top: 10px;
+    width: 210px;
+    height: 26px;
+    color:#838996;
+    background-color: #4A4A4A;
+    border: #424242;
+}
+#poisk:active {
+    outline: none;
+}
+#poisk:focus {
+    outline: none;
+}
+#firstTD {
+    margin: 0;
+    padding: 0;
+}
+#lupa-div {
+    margin-top: 20px;
+    display: flex;
+}
+#kolokol {
+    background: url("img.NewsLine/kolokol-last.png") rgba(0, 0, 0, 0);
+}
+#kolokol-button {
+    margin-left: 20px;
+    border-style: none;
+    outline: none;
+    border-color: #222222;
+    background-color: #222222;
+    height: 100%;
+    width: 50px;
+}
+#kolokol-button:hover {
+    background-color: #333333;
+}
+#nota-button {
+    margin-left: 20px;
+    border-style: none;
+    outline: none;
+    border-color: #222222;
+    background-color: #222222;
+    height: 100%;
+    width: 50px;  
+}
+#nota-button:hover {
+    background-color: #333333;
+}
+#meny-button {
+    margin-left: 350px;
+    border-style: none;
+    outline: none;
+    border-color: #222222;
+    background-color: #222222;
+    height: 100%;
+    width: 50px;
+}
+#meny-button:hover {
+    background-color: #333333;
+}
